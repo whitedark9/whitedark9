@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whitedark
 - 👀 I’m interested in hot girls with big butts.
-- 🌱 I’m currently learning java and javascript.
+- 🌱 I’m currently learning typescript and nextjs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
